@@ -1,6 +1,6 @@
 #!/bin/bash
 
-	# to execute sript make it executable: chmod +x adblocl-script.sh
+	# to execute sript make it executable: chmod +x adblock-script.sh
 	# run with superuser right: devel-su ./setup_hosts.sh
 	
 	# The script basically automates the process developed and described at: https://dt.iki.fi/sailfish-os-adblock-hosts
